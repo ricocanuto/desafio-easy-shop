@@ -2,7 +2,7 @@
 
 <h1>Projeto Easy Shop proposto pela Devclub</h1>
 <br>
-<h2>Nesse projeto praticamos HTML - CSS - Responsividade</h2>
+<h2>Esse projeto foi o primeiro feito em aula, onde foi praticado o uso das tecnologias HTML - CSS - Responsividade , além da configuração da URL para visualização por qualquer pessoa através do endereço</h2>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://github.com/ricocanuto/desafio-easy-shop/assets/141502177/b8e82c55-2d04-457b-ba85-66b88409ab53"/>
